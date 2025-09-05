@@ -25,14 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-marcosbrito&show_icons=true&locale=en&layout=compact" alt="dev-marcosbrito" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-marcosbrito&show_icons=true&locale=en" alt="dev-marcosbrito" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-marcosbrito&" alt="dev-marcosbrito" /></p>
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Dev-MarcosBrito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
