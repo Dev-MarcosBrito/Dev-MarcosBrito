@@ -1,27 +1,76 @@
-<h1 align="center">Olá 👋, eu sou Marcos Brito</h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+# 👋 Olá, eu sou o Marcos Brito!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-marcosbrito&label=Profile%20views&color=0e75b6&style=flat" alt="dev-marcosbrito" /> </p>
+💻 **Desenvolvedor e Especialista em Inteligência Artificial**  
+📍 Altamira – Pará, Brasil  
+📅 23 anos | 🌟 Nascido em julho de 2002  
 
-<p align="left"> <a href="https://twitter.com/devmarcosbrito" target="blank"><img src="https://img.shields.io/twitter/follow/devmarcosbrito?logo=twitter&style=for-the-badge" alt="devmarcosbrito" /></a> </p>
+---
 
-- 🌱 Atualmente estou aprendendo: **React**
+## 🚀 Sobre Mim
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [Gerando link](Gerando link)
+Sou apaixonado por unir **tecnologia, automação e design inteligente** para transformar a forma como empresas e profissionais atuam no digital.  
+Desenvolvo **sites profissionais com agentes de IA personalizados**, capazes de tirar dúvidas, captar leads e impulsionar vendas — tudo de forma **automatizada e humanizada**.
 
-- 💬 Pergunte-me sobre: **JavaScript**
+Meu foco é ajudar negócios a conquistarem uma **presença digital real e inteligente**, por meio de soluções acessíveis, eficazes e totalmente integradas.
 
-- 📫 Contato: **dev.marcosbrito@gmail.com**
+---
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://twitter.com/devmarcosbrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmarcosbrito" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev-marcos-brito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-marcos-brito" height="30" width="40" /></a>
-</p>
+## 🎯 Missão e Propósito
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+> **Ajudar negócios a se destacarem no digital** por meio de soluções inteligentes e acessíveis, aplicando IA, automação e design funcional.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-marcosbrito&show_icons=true&locale=en&layout=compact" alt="dev-marcosbrito" /></p>
+Minha missão é **simplificar o atendimento**, **aumentar conversões** e **melhorar a experiência do cliente** com tecnologia de ponta e experiência personalizada.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-marcosbrito&show_icons=true&locale=en" alt="dev-marcosbrito" /></p>
+---
+
+## 🧠 Formações
+
+🎓 **Gestor de IA** – IA Club  
+🎓 **Engenheiro de Prompt** – IA Club  
+🎓 **Desenvolvedor Front-End** – Comunidade Dev Completo  
+
+---
+
+## 💡 Soluções que Ofereço
+
+### 🖥️ 1. Criação de Sites Profissionais com IA Embutida
+- Sites modernos, responsivos e otimizados para o Google;  
+- IA integrada para responder dúvidas e captar contatos automaticamente;  
+- Presença digital inteligente e personalizada para seu negócio.
+
+---
+
+### 🤖 2. Criação de Agentes de IA para Sites e WhatsApp
+- Agentes simples e eficazes, capazes de:  
+  - Tirar dúvidas de clientes;  
+  - Fazer agendamentos automáticos;  
+  - Encaminhar contatos para o WhatsApp;  
+  - Captar leads e gerar oportunidades de venda.
+
+---
+
+### ⚙️ 3. Criação de Agentes de IA Avançados (com n8n e integrações)
+- Automação completa para empresas;  
+- Integrações com CRM, WhatsApp e e-mail;  
+- Conversão automática de leads;  
+- Monitoramento de resultados e performance.
+
+---
+
+## 🌐 Canais de Contato
+
+📞 **WhatsApp:** [ +55 (47) 9 8929-8761 ](https://wa.me/554789298761)  
+📸 **Instagram:** [@dev_marcosbrito](https://www.instagram.com/dev_marcosbrito/)  
+📧 **E-mail:** [dev.marcosbrito@gmail.com](mailto:dev.marcosbrito@gmail.com)  
+💼 **LinkedIn:** [Marcos Brito](https://www.linkedin.com/in/dev-marcos-brito/)  
+
+---
+
+## ⚡ Curiosidade
+
+Quando não estou programando ou criando agentes de IA, estou explorando novas formas de **humanizar a tecnologia**, tornando-a mais próxima, intuitiva e útil para pessoas e empresas.
+
+---
+
+✨ *“Automação inteligente não substitui pessoas — potencializa o que elas têm de melhor.”*  
+— *Marcos Brito*
