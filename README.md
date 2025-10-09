@@ -91,17 +91,6 @@ Busco sempre criar experiências digitais que **melhoram o atendimento, aumentam
 
 ---
 
-## 💼 Portfólio em construção
-
-Em breve você poderá acessar meu portfólio completo com:
-- Projetos de sites com IA embutida;  
-- Automações empresariais usando n8n e APIs;  
-- Agentes inteligentes criados para WhatsApp e web.  
-
-🔗 [Acompanhe meu progresso no GitHub!](https://github.com/MarcosBrito)
-
----
-
 > 🚀 **“Automação é o novo diferencial competitivo — e a IA é o motor dessa transformação.”**
 
 ---
