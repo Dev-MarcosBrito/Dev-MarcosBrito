@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Marcos Brito!
 
-💻 **Desenvolvedor e Especialista em Inteligência Artificial**  
+💻 **Desenvolvedor Front-End e Especialista em Inteligência Artificial**  
 📍 Altamira – Pará, Brasil  
-📅 23 anos | 🌟 Nascido em julho de 2002  
+📅 23 anos
 
 ---
 
